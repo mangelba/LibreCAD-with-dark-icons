@@ -1,4 +1,16 @@
-# LibreCAD [![Build Status](https://travis-ci.org/LibreCAD/LibreCAD.svg?branch=master)](https://travis-ci.org/LibreCAD/LibreCAD) 
+# LibreCAD
+
+LibreCAD with customized icons for a dark theme.
+You can easily replace the colors of all the icons if you prefer to presonalize them.
+
+## Icons colors:
+- #00ff7f Original green color
+- #000000 Original black color around the green color
+- #f4f4f4 Light color of the objects, the originals are black.
+- #3c3c3c Dark backgrounds, the originals are white.
+
+
+## LibreCAD [![Build Status](https://travis-ci.org/LibreCAD/LibreCAD.svg?branch=master)](https://travis-ci.org/LibreCAD/LibreCAD) 
 
 [→ Download ←](https://github.com/LibreCAD/LibreCAD/wiki/Download)
 

@@ -6,10 +6,10 @@
    id="svg4295"
    version="1.1"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="line.svg"
-   inkscape:export-filename="D:\LC_Recources\icons\linerect.png"
-   inkscape:export-xdpi="11.25"
-   inkscape:export-ydpi="11.25"
+   sodipodi:docname="folderclosed.svg"
+   inkscape:export-filename="../../../../../../../../../mnt/docs/ion/Desarrollo/LibreCad/Dark-icons/LibreCAD/librecad/res/Copia de ui/folderclosed.png"
+   inkscape:export-xdpi="56.25"
+   inkscape:export-ydpi="56.25"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,7 +25,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -46,16 +45,15 @@
      showgrid="true"
      units="px"
      inkscape:snap-grids="true"
-     inkscape:zoom="2.6398504"
-     inkscape:cx="129.36339"
-     inkscape:cy="128.22696"
+     inkscape:zoom="3.7226562"
+     inkscape:cx="118.4638"
+     inkscape:cy="193.27597"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4295"
      inkscape:object-nodes="true"
      inkscape:snap-object-midpoints="false"
-     showguides="false"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1">
@@ -63,21 +61,19 @@
        type="xygrid"
        id="grid4867" />
   </sodipodi:namedview>
-  <rect
-     inkscape:export-ydpi="192.85715"
-     inkscape:export-xdpi="192.85715"
-     inkscape:export-filename="/home/prar/LibreCAD editado/res/extui/linestan2.png"
-     ry="0"
-     y="5.2313447"
-     x="4.6073122"
-     height="62.687038"
-     width="62.682362"
-     id="rect3021-8-3-9-7-5-6-2-0-7-0-0-3-3-9-1"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0;fill:none;stroke:#000000;stroke-width:0.5329293;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#f4f4f4;stroke-width:2.25777793;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 11.28889,11.28889 60.960004,60.960004"
-     id="path5735"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cc" />
+  <g
+     id="g4202">
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4196"
+       d="M 51.067066,27.49077 62.318699,26.701246 50.984795,53.176304 Z"
+       style="fill:#f4f4f4;fill-rule:evenodd;stroke:#f4f4f4;stroke-width:2.25778;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path4194"
+       d="M 10.160001,57.573337 V 19.191112 l 2.257778,-2.257778 h 15.804445 l 4.515556,4.515556 h 18.062223 l 0.303248,31.000026 z"
+       style="fill:#00ff7f;fill-rule:evenodd;stroke:#000000;stroke-width:2.25778;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
 </svg>

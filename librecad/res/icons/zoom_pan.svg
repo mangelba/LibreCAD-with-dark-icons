@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="8.4375"
    inkscape:export-xdpi="8.4375"
    inkscape:export-filename="D:\LC_Recources\icons\zoompan24.png"
-   sodipodi:docname="zoom_pan_b.svg"
-   inkscape:version="0.91 r13725"
+   sodipodi:docname="zoom_pan.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    version="1.1"
    id="svg4295"
    viewBox="0 0 72.248892 72.248892"
    height="256"
-   width="256">
+   width="256"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata4325">
     <rdf:RDF>
@@ -63,17 +63,17 @@
      inkscape:object-nodes="true"
      inkscape:current-layer="svg4295"
      inkscape:window-maximized="1"
-     inkscape:window-y="1"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="87.705012"
-     inkscape:cx="85.238902"
+     inkscape:cy="88.19902"
+     inkscape:cx="61.704453"
      inkscape:zoom="1.4342563"
      inkscape:snap-grids="true"
      units="px"
      showgrid="true"
      id="namedview4321"
-     inkscape:window-height="1022"
-     inkscape:window-width="2048"
+     inkscape:window-height="1356"
+     inkscape:window-width="2560"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -83,7 +83,10 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      inkscape:snap-bbox="false"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4867" />
@@ -141,12 +144,12 @@
            cy="19.191113"
            cx="28.222223"
            id="path4204"
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.25777793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#f4f4f4;stroke-width:2.25777793;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         <path
            inkscape:connector-curvature="0"
            id="path4206"
            d="m 34.995558,25.964446 14.368411,14.36841"
-           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4.51555586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+           style="fill:none;fill-rule:evenodd;stroke:#f4f4f4;stroke-width:4.51555586;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
   </g>

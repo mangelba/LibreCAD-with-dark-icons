@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="256"
    height="256"
    viewBox="0 0 256 256"
    id="svg4267"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="exclusive.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="exclusive.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4269" />
   <sodipodi:namedview
@@ -26,17 +26,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.7287766"
-     inkscape:cx="114.26922"
-     inkscape:cy="110.09967"
+     inkscape:cx="107.11016"
+     inkscape:cy="110.28222"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="2048"
-     inkscape:window-height="1022"
+     inkscape:window-width="2560"
+     inkscape:window-height="1356"
      inkscape:window-x="0"
-     inkscape:window-y="1"
-     inkscape:window-maximized="1">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4815"
@@ -67,11 +70,11 @@
        id="flowRoot4817">
       <path
          d="m 45.740234,53.484336 64.531246,0 0,11.621093 -50.722652,0 0,30.214844 48.603512,0 0,11.621097 -48.603512,0 0,36.98242 51.953122,0 0,11.62109 -65.761716,0 0,-102.060544 z"
-         style=""
+         style="fill:#f4f4f4;fill-opacity:1"
          id="path4139" />
       <path
          d="m 197.15625,78.982383 -27.68555,37.255857 29.1211,39.30664 -14.83399,0 -22.28515,-30.07812 -22.28516,30.07812 -14.83398,0 29.73632,-40.05859 -27.20703,-36.503907 14.83399,0 20.30273,27.275387 20.30274,-27.275387 14.83398,0 z"
-         style=""
+         style="fill:#f4f4f4;fill-opacity:1"
          id="path4141" />
     </g>
   </g>

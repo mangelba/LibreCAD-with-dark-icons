@@ -66,7 +66,7 @@
        inkscape:connector-curvature="0"
        id="path4157"
        d="m 22.577781,48.542226 40.640001,-10e-7"
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2.25777793;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;fill-rule:evenodd;stroke:#f4f4f4;stroke-width:2.25777793;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:open="true"
        d="m 22.577776,48.542226 a 12.418459,12.417779 0 0 1 -10.754701,-6.20889 12.418459,12.417779 0 0 1 0,-12.417779 12.418459,12.417779 0 0 1 10.754701,-6.208889"
@@ -78,6 +78,6 @@
        sodipodi:cx="22.577776"
        sodipodi:type="arc"
        id="path4159"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.25777793;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#f4f4f4;stroke-width:2.25777793;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

@@ -61,12 +61,12 @@
        id="grid4867" />
   </sodipodi:namedview>
   <path
-     style="display:inline;fill:#000000;stroke-width:6.25782633;stroke-miterlimit:4;stroke-dasharray:none"
+     style="display:inline;fill:#f4f4f4;stroke-width:6.25782633;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 129.13281 66.021484 A 62.499999 62.499999 0 0 0 65.025391 126.74023 L 65.011719 127.24609 A 62.499999 62.499999 0 0 0 126.11914 190.98438 A 62.499999 62.499999 0 0 0 189.98242 130.00586 A 62.499999 62.499999 0 0 0 129.13281 66.021484 z M 129.00391 71.033203 A 57.732794 57.26626 44.999608 0 1 184.98438 130.35352 A 57.732794 57.26626 44.999608 0 1 126.23047 185.97461 A 57.732794 57.26626 44.999608 0 1 70.011719 126.88086 L 70.023438 126.41406 A 57.732794 57.26626 44.999608 0 1 129.00391 71.033203 z "
      transform="scale(0.28222223)"
      id="path4671" />
   <path
-     style="fill:#000000;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#f4f4f4;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 125 21 L 125 126 L 20 126 L 20 131 L 125 131 L 125 236 L 130 236 L 130 131 L 235 131 L 235 126 L 130 126 L 130 21 L 125 21 z "
      transform="scale(0.28222223)"
      id="rect4722" />
